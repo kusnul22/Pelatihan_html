@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Profil saya-Kusnul Khotimah</title>
+  </head>
+  <body>
+    <div class="kartu-foto profil">
+      <img src=foto.jpg" alt="foto">
+      <h1>Kusnul Khotimah</h1>
+      <p>Siswa SMKN TAMBAKBOYO, Selamat datang di website pertamaku!</p>
+      <a href="https;//www.instagram.com/myusername">Jangan lupa mampir di instagram saya</a>
+      <button id="sapaButtonn">Sapa Saya</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
